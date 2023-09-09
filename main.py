@@ -3,5 +3,4 @@ stesha = 34
 
 
 def incr(a):
-    a += 1
     return 7
